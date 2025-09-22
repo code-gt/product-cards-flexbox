@@ -6,9 +6,10 @@ Créer une page web avec **3 cartes produit** au design moderne, en utilisant **
 - Une troisième carte en dessous, occupant la largeur combinée des deux premières.  
 
 Les produits à présenter :
-1. *Hollow Knight: Silksong*  
-2. *Donkey Kong Bonanza*  
-3. *Hades II* (avec une bande-annonce intégrée en iframe YouTube).  
+1. *Hades II* (avec une bande-annonce intégrée en iframe YouTube)
+2. *Donkey Kong Bonanza*
+3. *Hollow Knight: Silksong*  
+ 
 
 ---
 
@@ -17,3 +18,14 @@ Les produits à présenter :
 - `style.css` → fichier de styles avec couleurs données et astuces en commentaire.  
 
 ---
+
+## ✏ Textes
+
+Les textes de la maquette sont donées dans le fichier textes.md
+
+---
+
+## 🎞️ Images
+
+Les images sont fournies dans le dosiser `img`. 
+la maquette à reproduire s'y trouve également.
