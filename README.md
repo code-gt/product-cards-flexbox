@@ -32,4 +32,4 @@ la maquette à reproduire s'y trouve également.
 
 ---
 
-![Maquette]([https://github.com/code-gt/product-cards-flexbox/blob/main/img/maquette.png]( "Maquette").
+![Maquette](https://github.com/code-gt/product-cards-flexbox/blob/main/img/maquette.png "Maquette").
