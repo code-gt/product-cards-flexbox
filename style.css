@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,500,700');
+
+body {
+  font-family: 'Roboto', sans-serif;
+  /* Bleu de fond : #00719c */
+  margin: 0;
+}
+
+/* 
+🎨 Couleurs utiles :
+- Rouge crimson : #bf0010
+- Gris clair : #f0f0f0
+- Gris moyen : #999999
+- Noir presque : #222222
+- Violet accent (icônes) : purple
+
+🔥 Astuce Flexbox :
+   - N'oubliez pas de déclarer 'display: flex' pour utliser les flexbox; 
+   - Utilisez 'flex: 1;' ou 'flex: 2;' pour jouer sur le ratio entre l'image et le contenu.
+   - Testez aussi `align-items: center` pour verticalement centrer.
+*/
