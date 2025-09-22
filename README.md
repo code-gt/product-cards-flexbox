@@ -29,3 +29,7 @@ Les textes de la maquette sont donées dans le fichier textes.md
 
 Les images sont fournies dans le dosiser `img`. 
 la maquette à reproduire s'y trouve également.
+
+---
+
+![Maquette]([/chemin/access/image.jpg](https://github.com/code-gt/product-cards-flexbox/blob/main/img/maquette.png) "Maquette").
